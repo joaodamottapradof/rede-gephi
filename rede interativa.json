@@ -1,0 +1,5648 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.11.2"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "directed"
+  },
+  "nodes": [
+    {
+      "key": "1",
+      "attributes": {
+        "label": "Economy (market)",
+        "x": 701.9446,
+        "y": 2698.1626,
+        "size": 70.0,
+        "color": "#ff3333"
+      }
+    },
+    {
+      "key": "2",
+      "attributes": {
+        "label": "Macro economy",
+        "x": 408.91516,
+        "y": 2856.8328,
+        "size": 64.0,
+        "color": "#ff6666"
+      }
+    },
+    {
+      "key": "3",
+      "attributes": {
+        "label": "National debt",
+        "x": 301.144,
+        "y": 2965.1143,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "4",
+      "attributes": {
+        "label": "National accounts",
+        "x": 406.39276,
+        "y": 3039.0146,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "5",
+      "attributes": {
+        "label": "Gross domestic produ",
+        "x": 196.21776,
+        "y": 2890.6475,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "6",
+      "attributes": {
+        "label": "Exchange rate regime",
+        "x": 495.02795,
+        "y": 2730.3748,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "7",
+      "attributes": {
+        "label": "Balance of payments",
+        "x": 516.78375,
+        "y": 2970.5957,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "8",
+      "attributes": {
+        "label": "Budget surplus \u0026 def",
+        "x": 271.82193,
+        "y": 2785.8025,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "9",
+      "attributes": {
+        "label": "Volatile capital",
+        "x": 561.6211,
+        "y": 2846.7776,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "10",
+      "attributes": {
+        "label": "National wealth acco",
+        "x": 367.2495,
+        "y": 2697.9524,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "11",
+      "attributes": {
+        "label": "Micro economy",
+        "x": 601.8069,
+        "y": 2554.0508,
+        "size": 64.0,
+        "color": "#ff6666"
+      }
+    },
+    {
+      "key": "12",
+      "attributes": {
+        "label": "Supply",
+        "x": 468.73734,
+        "y": 2507.144,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "13",
+      "attributes": {
+        "label": "Demand",
+        "x": 611.2545,
+        "y": 2413.7112,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "14",
+      "attributes": {
+        "label": "Outstanding factors",
+        "x": 758.1646,
+        "y": 2886.1204,
+        "size": 64.0,
+        "color": "#ff6666"
+      }
+    },
+    {
+      "key": "15",
+      "attributes": {
+        "label": "Science",
+        "x": 674.18494,
+        "y": 3003.3945,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "16",
+      "attributes": {
+        "label": "Technology",
+        "x": 900.27185,
+        "y": 2902.719,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "17",
+      "attributes": {
+        "label": "Innovation \u0026 creativ",
+        "x": 814.8626,
+        "y": 3020.7332,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "18",
+      "attributes": {
+        "label": "Globalization challe",
+        "x": 979.87744,
+        "y": 2602.9902,
+        "size": 64.0,
+        "color": "#ff6666"
+      }
+    },
+    {
+      "key": "19",
+      "attributes": {
+        "label": "International relati",
+        "x": 909.90765,
+        "y": 2462.9004,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "20",
+      "attributes": {
+        "label": "Geopolitics",
+        "x": 883.2065,
+        "y": 2715.3394,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "21",
+      "attributes": {
+        "label": "Geoeconomics",
+        "x": 1042.332,
+        "y": 2456.0447,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "22",
+      "attributes": {
+        "label": "Geo-sociology",
+        "x": 833.9903,
+        "y": 2574.1392,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "23",
+      "attributes": {
+        "label": "International confli",
+        "x": 1012.4353,
+        "y": 2755.0908,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "24",
+      "attributes": {
+        "label": "Commercial wars",
+        "x": 1135.4147,
+        "y": 2548.8938,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "25",
+      "attributes": {
+        "label": "Political hegemony",
+        "x": 1121.2964,
+        "y": 2679.3757,
+        "size": 58.0,
+        "color": "#ff9999"
+      }
+    },
+    {
+      "key": "26",
+      "attributes": {
+        "label": "People (society)",
+        "x": 614.5349,
+        "y": 3516.282,
+        "size": 70.0,
+        "color": "#33ff33"
+      }
+    },
+    {
+      "key": "27",
+      "attributes": {
+        "label": "Civilization\u0027s cradl",
+        "x": 441.82248,
+        "y": 3479.0513,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "28",
+      "attributes": {
+        "label": "Knowledge base",
+        "x": 390.80762,
+        "y": 3348.1904,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "29",
+      "attributes": {
+        "label": "Ongoing learning",
+        "x": 300.53516,
+        "y": 3464.8167,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "30",
+      "attributes": {
+        "label": "Socially",
+        "x": 350.07574,
+        "y": 3719.6873,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "31",
+      "attributes": {
+        "label": "Communality",
+        "x": 246.48798,
+        "y": 3842.6965,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "32",
+      "attributes": {
+        "label": "Education",
+        "x": 263.34314,
+        "y": 3604.102,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "33",
+      "attributes": {
+        "label": "Intellectuality",
+        "x": 376.40317,
+        "y": 3866.6086,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "34",
+      "attributes": {
+        "label": "Spirituality \u0026 relig",
+        "x": 195.66768,
+        "y": 3720.557,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "35",
+      "attributes": {
+        "label": "Economically",
+        "x": 854.869,
+        "y": 3635.1787,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "36",
+      "attributes": {
+        "label": "Labor",
+        "x": 823.89856,
+        "y": 3777.578,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "37",
+      "attributes": {
+        "label": "Consumption",
+        "x": 920.00433,
+        "y": 3506.1262,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "38",
+      "attributes": {
+        "label": "Saving",
+        "x": 1003.6907,
+        "y": 3622.1333,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "39",
+      "attributes": {
+        "label": "Investments",
+        "x": 957.27057,
+        "y": 3750.1829,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "40",
+      "attributes": {
+        "label": "Outstanding factors",
+        "x": 566.3348,
+        "y": 3689.3806,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "41",
+      "attributes": {
+        "label": "Science",
+        "x": 506.0826,
+        "y": 3817.2012,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "42",
+      "attributes": {
+        "label": "Technology",
+        "x": 646.17596,
+        "y": 3807.269,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "43",
+      "attributes": {
+        "label": "Innovation \u0026 creativ",
+        "x": 706.1908,
+        "y": 3684.753,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "44",
+      "attributes": {
+        "label": "Culture [art, tradit",
+        "x": 744.9866,
+        "y": 3425.3008,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "45",
+      "attributes": {
+        "label": "Intelligence",
+        "x": 650.7148,
+        "y": 3965.677,
+        "size": 64.0,
+        "color": "#66ff66"
+      }
+    },
+    {
+      "key": "46",
+      "attributes": {
+        "label": "Emotional",
+        "x": 548.50275,
+        "y": 4089.984,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "47",
+      "attributes": {
+        "label": "Relational",
+        "x": 502.86365,
+        "y": 3965.119,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "48",
+      "attributes": {
+        "label": "Logical-mathematical",
+        "x": 790.255,
+        "y": 3920.37,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "49",
+      "attributes": {
+        "label": "Spiritual",
+        "x": 674.13367,
+        "y": 4127.826,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "50",
+      "attributes": {
+        "label": "Linguistic",
+        "x": 782.8523,
+        "y": 4053.9668,
+        "size": 58.0,
+        "color": "#99ff99"
+      }
+    },
+    {
+      "key": "51",
+      "attributes": {
+        "label": "Entrepreneurs (broad",
+        "x": 397.7035,
+        "y": 1411.6632,
+        "size": 70.0,
+        "color": "#3333ff"
+      }
+    },
+    {
+      "key": "52",
+      "attributes": {
+        "label": "Working agreement \u0026",
+        "x": 270.0497,
+        "y": 1315.0231,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "53",
+      "attributes": {
+        "label": "Material assets (tan",
+        "x": 506.85767,
+        "y": 1638.154,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "54",
+      "attributes": {
+        "label": "Infrastructure",
+        "x": 364.93906,
+        "y": 1614.8239,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "55",
+      "attributes": {
+        "label": "Land",
+        "x": 645.5676,
+        "y": 1703.1477,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "56",
+      "attributes": {
+        "label": "Volatile investment",
+        "x": 633.7719,
+        "y": 1565.7616,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "57",
+      "attributes": {
+        "label": "Financial working ca",
+        "x": 538.95825,
+        "y": 1787.8948,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "58",
+      "attributes": {
+        "label": "Buildings \u0026 equipmen",
+        "x": 406.989,
+        "y": 1751.5436,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "59",
+      "attributes": {
+        "label": "Non-material wealth",
+        "x": 46.03628,
+        "y": -119.382576,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "60",
+      "attributes": {
+        "label": "Knowledge \u0026 learning",
+        "x": 182.70131,
+        "y": 58.883305,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "61",
+      "attributes": {
+        "label": "Technical",
+        "x": 313.24075,
+        "y": 2.7004995,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "62",
+      "attributes": {
+        "label": "Social relational",
+        "x": 95.86504,
+        "y": 171.79367,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "63",
+      "attributes": {
+        "label": "Social structural",
+        "x": 214.64397,
+        "y": 200.36992,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "64",
+      "attributes": {
+        "label": "Intellectual",
+        "x": 310.47653,
+        "y": 125.37559,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "65",
+      "attributes": {
+        "label": "Human memories",
+        "x": 45.957687,
+        "y": 57.654358,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "66",
+      "attributes": {
+        "label": "Empiricism",
+        "x": 215.54745,
+        "y": -74.435555,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "67",
+      "attributes": {
+        "label": "Unique personal valu",
+        "x": 734.88995,
+        "y": -1216.9846,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "68",
+      "attributes": {
+        "label": "Intelligence (cognit",
+        "x": 905.44495,
+        "y": -1290.3636,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "69",
+      "attributes": {
+        "label": "Artificial",
+        "x": 859.20087,
+        "y": -1398.051,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "70",
+      "attributes": {
+        "label": "Natural",
+        "x": 1094.5358,
+        "y": -1339.5463,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "71",
+      "attributes": {
+        "label": "Emotional",
+        "x": 1213.6227,
+        "y": -1318.2577,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "72",
+      "attributes": {
+        "label": "Relational",
+        "x": 1048.5731,
+        "y": -1237.133,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "73",
+      "attributes": {
+        "label": "Logical-mathematical",
+        "x": 1005.9751,
+        "y": -1408.8457,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "74",
+      "attributes": {
+        "label": "Spiritual",
+        "x": 1153.6593,
+        "y": -1238.4897,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "75",
+      "attributes": {
+        "label": "Linguistic",
+        "x": 1098.3456,
+        "y": -1456.5426,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "76",
+      "attributes": {
+        "label": "Entrepreneurial",
+        "x": 1188.9038,
+        "y": -1413.8212,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "77",
+      "attributes": {
+        "label": "Personal growth comp",
+        "x": 1285.2021,
+        "y": -2225.3127,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "78",
+      "attributes": {
+        "label": "Resilience",
+        "x": 1484.327,
+        "y": -2466.241,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "79",
+      "attributes": {
+        "label": "Adaptability",
+        "x": 1407.3156,
+        "y": -2277.1533,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "80",
+      "attributes": {
+        "label": "Flexibility",
+        "x": 1074.2733,
+        "y": -2251.4028,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "81",
+      "attributes": {
+        "label": "Tolerance",
+        "x": 1611.0448,
+        "y": -2301.2805,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "82",
+      "attributes": {
+        "label": "Sense of priority",
+        "x": 1417.767,
+        "y": -2545.1355,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "83",
+      "attributes": {
+        "label": "Exemption",
+        "x": 1049.2363,
+        "y": -2024.4874,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "84",
+      "attributes": {
+        "label": "Good humor",
+        "x": 1250.2262,
+        "y": -2343.197,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "85",
+      "attributes": {
+        "label": "Critical thinking",
+        "x": 1509.6318,
+        "y": -2294.3872,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "86",
+      "attributes": {
+        "label": "Diversity \u0026 inclusio",
+        "x": 979.92,
+        "y": -2102.7756,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "87",
+      "attributes": {
+        "label": "Prudence",
+        "x": 1504.596,
+        "y": -2006.93,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "88",
+      "attributes": {
+        "label": "Analytical thinking",
+        "x": 1231.2621,
+        "y": -2021.7363,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "89",
+      "attributes": {
+        "label": "Adaptation",
+        "x": 1472.3168,
+        "y": -2203.1702,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "90",
+      "attributes": {
+        "label": "Patience",
+        "x": 1316.0339,
+        "y": -2529.745,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "91",
+      "attributes": {
+        "label": "Confidence",
+        "x": 1007.27386,
+        "y": -2418.7732,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "92",
+      "attributes": {
+        "label": "Diligence",
+        "x": 982.91846,
+        "y": -2207.4392,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "93",
+      "attributes": {
+        "label": "Perseverance",
+        "x": 1325.168,
+        "y": -1982.442,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "94",
+      "attributes": {
+        "label": "Respect",
+        "x": 1550.1393,
+        "y": -2387.8708,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "95",
+      "attributes": {
+        "label": "Cautiousness",
+        "x": 1585.8351,
+        "y": -2102.4011,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "96",
+      "attributes": {
+        "label": "Equilibrium",
+        "x": 1390.9983,
+        "y": -2146.9465,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "97",
+      "attributes": {
+        "label": "Dignity",
+        "x": 1083.1647,
+        "y": -2352.7368,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "98",
+      "attributes": {
+        "label": "Common sense",
+        "x": 1485.238,
+        "y": -2105.8555,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "99",
+      "attributes": {
+        "label": "Self-awareness",
+        "x": 1157.0487,
+        "y": -2194.5996,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "100",
+      "attributes": {
+        "label": "Loyalty",
+        "x": 1381.806,
+        "y": -2449.8171,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "101",
+      "attributes": {
+        "label": "Discernment",
+        "x": 1136.1837,
+        "y": -2073.264,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "102",
+      "attributes": {
+        "label": "Curiosity",
+        "x": 1242.6516,
+        "y": -1920.6399,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "103",
+      "attributes": {
+        "label": "Self-control",
+        "x": 1572.4249,
+        "y": -2205.207,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "104",
+      "attributes": {
+        "label": "Integrity",
+        "x": 1406.0519,
+        "y": -2045.1906,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "105",
+      "attributes": {
+        "label": "Work ethic",
+        "x": 1170.5311,
+        "y": -2399.8896,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "106",
+      "attributes": {
+        "label": "Commitment to the tr",
+        "x": 1313.8152,
+        "y": -2083.3271,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "107",
+      "attributes": {
+        "label": "Imaginative abilitie",
+        "x": 989.85284,
+        "y": -2311.5007,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "108",
+      "attributes": {
+        "label": "Stress management",
+        "x": 1347.516,
+        "y": -2356.3665,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "109",
+      "attributes": {
+        "label": "Sense of purpose",
+        "x": 1164.4401,
+        "y": -2294.7363,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "110",
+      "attributes": {
+        "label": "Self-leadership",
+        "x": 1098.3418,
+        "y": -2470.5576,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "111",
+      "attributes": {
+        "label": "Accountability",
+        "x": 1069.4445,
+        "y": -2148.548,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "112",
+      "attributes": {
+        "label": "Coherence",
+        "x": 1446.3337,
+        "y": -2371.5342,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "113",
+      "attributes": {
+        "label": "Shortcuts ability",
+        "x": 1199.4962,
+        "y": -2495.1626,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "114",
+      "attributes": {
+        "label": "Discipline",
+        "x": 1143.3811,
+        "y": -1970.3026,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "115",
+      "attributes": {
+        "label": "Empathy",
+        "x": 1233.2457,
+        "y": -2589.8093,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "116",
+      "attributes": {
+        "label": "Modesty",
+        "x": 1281.1969,
+        "y": -2436.1846,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "117",
+      "attributes": {
+        "label": "Time management",
+        "x": 1222.0414,
+        "y": -2119.9175,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "118",
+      "attributes": {
+        "label": "Sense of urgency",
+        "x": 1419.4565,
+        "y": -1943.2855,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "119",
+      "attributes": {
+        "label": "Mindset",
+        "x": 662.5599,
+        "y": -1326.1545,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "120",
+      "attributes": {
+        "label": "Interpersonal effect",
+        "x": 94.12077,
+        "y": -484.593,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "121",
+      "attributes": {
+        "label": "Dialogue competence",
+        "x": 214.30623,
+        "y": -415.00775,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "122",
+      "attributes": {
+        "label": "Counseling",
+        "x": -10.635945,
+        "y": -578.18524,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "123",
+      "attributes": {
+        "label": "Constructive critici",
+        "x": 120.1222,
+        "y": -619.2613,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "124",
+      "attributes": {
+        "label": "Interpersonal commun",
+        "x": 58.31184,
+        "y": -749.3477,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "125",
+      "attributes": {
+        "label": "Active listening",
+        "x": 139.0232,
+        "y": -866.76953,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "126",
+      "attributes": {
+        "label": "Empathy",
+        "x": 142.97966,
+        "y": -974.14374,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "127",
+      "attributes": {
+        "label": "Building rapport",
+        "x": 235.85748,
+        "y": -911.32355,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "128",
+      "attributes": {
+        "label": "Networking/relations",
+        "x": -31.435436,
+        "y": -886.8344,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "129",
+      "attributes": {
+        "label": "Cooperative platform",
+        "x": 8.424333,
+        "y": -989.12244,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "130",
+      "attributes": {
+        "label": "Collaborative networ",
+        "x": -139.25381,
+        "y": -877.3967,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "131",
+      "attributes": {
+        "label": "Collaboration mechan",
+        "x": -96.54589,
+        "y": -977.65125,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "132",
+      "attributes": {
+        "label": "Inspiring attitudes",
+        "x": 88.325424,
+        "y": -348.3914,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "133",
+      "attributes": {
+        "label": "Productivity",
+        "x": 248.43317,
+        "y": -560.6616,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "134",
+      "attributes": {
+        "label": "Efficiency conscious",
+        "x": 303.1229,
+        "y": -665.8307,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "135",
+      "attributes": {
+        "label": "Efficacy consciousne",
+        "x": 366.49677,
+        "y": -553.5471,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "136",
+      "attributes": {
+        "label": "Fundamental neutrali",
+        "x": -39.73052,
+        "y": -448.44083,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "137",
+      "attributes": {
+        "label": "Technical \u0026 operatio",
+        "x": 870.83624,
+        "y": 6.2574816,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "138",
+      "attributes": {
+        "label": "Technical literacy",
+        "x": 836.3284,
+        "y": -133.89049,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "139",
+      "attributes": {
+        "label": "Technical communicat",
+        "x": 1028.6542,
+        "y": 5.5136647,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "140",
+      "attributes": {
+        "label": "Dynamics",
+        "x": 1057.1947,
+        "y": 184.17094,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "141",
+      "attributes": {
+        "label": "Scalability",
+        "x": 975.5233,
+        "y": 335.3862,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "142",
+      "attributes": {
+        "label": "Incrementability",
+        "x": 1169.2178,
+        "y": 224.13058,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "143",
+      "attributes": {
+        "label": "Disclosures",
+        "x": 1096.0295,
+        "y": -120.69041,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "144",
+      "attributes": {
+        "label": "Financial disclosure",
+        "x": 1198.2661,
+        "y": -57.71943,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "145",
+      "attributes": {
+        "label": "Legal disclosures",
+        "x": 1110.6149,
+        "y": -241.66226,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "146",
+      "attributes": {
+        "label": "Risk disclosures",
+        "x": 1207.3975,
+        "y": -176.66624,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "147",
+      "attributes": {
+        "label": "Data analysis \u0026 inte",
+        "x": 927.91876,
+        "y": -214.17848,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "148",
+      "attributes": {
+        "label": "Information \u0026 misinf",
+        "x": 964.14874,
+        "y": -324.04117,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "149",
+      "attributes": {
+        "label": "Compliance control",
+        "x": 727.4681,
+        "y": 34.013863,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "150",
+      "attributes": {
+        "label": "Data security",
+        "x": 937.3811,
+        "y": 225.70497,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "151",
+      "attributes": {
+        "label": "Sensible data care",
+        "x": 1074.0814,
+        "y": 303.53006,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "152",
+      "attributes": {
+        "label": "Organization \u0026 analy",
+        "x": 1412.7593,
+        "y": 75.98438,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "153",
+      "attributes": {
+        "label": "Management",
+        "x": 1537.3762,
+        "y": 86.49674,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "154",
+      "attributes": {
+        "label": "Outcomes \u0026 results (",
+        "x": 1367.0465,
+        "y": 198.1749,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "155",
+      "attributes": {
+        "label": "Accounting",
+        "x": 1479.293,
+        "y": 189.73395,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "156",
+      "attributes": {
+        "label": "Auditing",
+        "x": 1381.897,
+        "y": -48.490196,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "157",
+      "attributes": {
+        "label": "Forensic auditing",
+        "x": 1289.951,
+        "y": 96.54235,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "158",
+      "attributes": {
+        "label": "Fraud",
+        "x": 1623.7339,
+        "y": 2.3677692,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "159",
+      "attributes": {
+        "label": "Prevention",
+        "x": 1730.0078,
+        "y": 28.320648,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "160",
+      "attributes": {
+        "label": "Detection",
+        "x": 1699.1893,
+        "y": -75.75739,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "161",
+      "attributes": {
+        "label": "Taxation",
+        "x": 1607.5002,
+        "y": 186.44536,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "162",
+      "attributes": {
+        "label": "Conformity",
+        "x": 1716.7898,
+        "y": 182.08861,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "163",
+      "attributes": {
+        "label": "Non-conformity",
+        "x": 1665.7216,
+        "y": 278.0555,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "164",
+      "attributes": {
+        "label": "Trend analytics",
+        "x": 1495.1901,
+        "y": -26.304682,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "165",
+      "attributes": {
+        "label": "Cost structure",
+        "x": 964.1728,
+        "y": -97.36159,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "166",
+      "attributes": {
+        "label": "Pricing",
+        "x": 847.0289,
+        "y": 144.75809,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "167",
+      "attributes": {
+        "label": "Rescue \u0026 safeness",
+        "x": 729.96173,
+        "y": -83.67262,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "168",
+      "attributes": {
+        "label": "Digitalization compe",
+        "x": 964.5703,
+        "y": 104.7767,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "169",
+      "attributes": {
+        "label": "Proficiency",
+        "x": 730.8893,
+        "y": 151.37393,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "170",
+      "attributes": {
+        "label": "Managerial capacity",
+        "x": -445.99384,
+        "y": 358.80453,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "171",
+      "attributes": {
+        "label": "Leadership and manag",
+        "x": -703.4638,
+        "y": 307.6856,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "172",
+      "attributes": {
+        "label": "Vision and strategic",
+        "x": -711.07446,
+        "y": 185.95537,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "173",
+      "attributes": {
+        "label": "Decision-making",
+        "x": -811.1774,
+        "y": 233.2711,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "174",
+      "attributes": {
+        "label": "Delegation",
+        "x": -834.1965,
+        "y": 339.53705,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "175",
+      "attributes": {
+        "label": "Conflict resolution",
+        "x": -755.9097,
+        "y": 416.45236,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "176",
+      "attributes": {
+        "label": "Communication skills",
+        "x": -438.05386,
+        "y": 667.09247,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "177",
+      "attributes": {
+        "label": "Effective communicat",
+        "x": -316.2363,
+        "y": 677.23364,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "178",
+      "attributes": {
+        "label": "Active listening",
+        "x": -552.3596,
+        "y": 714.00287,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "179",
+      "attributes": {
+        "label": "Negotiation skills",
+        "x": -369.48016,
+        "y": 776.594,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "180",
+      "attributes": {
+        "label": "Team building",
+        "x": -477.72665,
+        "y": 794.81934,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "181",
+      "attributes": {
+        "label": "Organizational and t",
+        "x": -732.41473,
+        "y": 580.9571,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "182",
+      "attributes": {
+        "label": "Time management",
+        "x": -793.0302,
+        "y": 701.8572,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "183",
+      "attributes": {
+        "label": "Project management",
+        "x": -836.2429,
+        "y": 512.3679,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "184",
+      "attributes": {
+        "label": "Resource management",
+        "x": -862.5775,
+        "y": 618.79254,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "185",
+      "attributes": {
+        "label": "Operational planning",
+        "x": -683.42346,
+        "y": 694.1937,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "186",
+      "attributes": {
+        "label": "Analytical and probl",
+        "x": -495.13458,
+        "y": 205.01698,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "187",
+      "attributes": {
+        "label": "Critical thinking",
+        "x": -597.29565,
+        "y": 142.27122,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "188",
+      "attributes": {
+        "label": "Problem-solving",
+        "x": -386.64752,
+        "y": 156.81985,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "189",
+      "attributes": {
+        "label": "Risk management",
+        "x": -494.3734,
+        "y": 83.99916,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "190",
+      "attributes": {
+        "label": "Adaptability and fle",
+        "x": -532.0599,
+        "y": 485.20898,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "191",
+      "attributes": {
+        "label": "Change management",
+        "x": -424.25858,
+        "y": 531.3349,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "192",
+      "attributes": {
+        "label": "Innovation managemen",
+        "x": -646.9561,
+        "y": 466.08423,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "193",
+      "attributes": {
+        "label": "Adaptability",
+        "x": -583.41473,
+        "y": 591.8376,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "194",
+      "attributes": {
+        "label": "Ethics and integrity",
+        "x": -294.30414,
+        "y": 431.56238,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "195",
+      "attributes": {
+        "label": "Ethical decision-mak",
+        "x": -179.3425,
+        "y": 472.17053,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "196",
+      "attributes": {
+        "label": "Integrity and accoun",
+        "x": -208.0965,
+        "y": 349.47168,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "197",
+      "attributes": {
+        "label": "Corporate social res",
+        "x": -269.67108,
+        "y": 549.3181,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "198",
+      "attributes": {
+        "label": "Entrepreneurial acum",
+        "x": -1350.7446,
+        "y": -895.0193,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "199",
+      "attributes": {
+        "label": "Be on the path",
+        "x": -1210.978,
+        "y": -927.4515,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "200",
+      "attributes": {
+        "label": "Igniter \u0026 inhibitor",
+        "x": -1459.784,
+        "y": -982.17584,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "201",
+      "attributes": {
+        "label": "Market \u0026 marketing",
+        "x": -1725.8708,
+        "y": -678.0595,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "202",
+      "attributes": {
+        "label": "Vision \u0026 shared visi",
+        "x": -1777.5624,
+        "y": -546.39667,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "203",
+      "attributes": {
+        "label": "Market positioning/r",
+        "x": -1859.1904,
+        "y": -614.73975,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "204",
+      "attributes": {
+        "label": "Clientele size",
+        "x": -1656.7688,
+        "y": -778.75604,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "205",
+      "attributes": {
+        "label": "Segmentation",
+        "x": -1780.0469,
+        "y": -794.6145,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "206",
+      "attributes": {
+        "label": "Marketing strategies",
+        "x": -1859.9263,
+        "y": -721.2974,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "207",
+      "attributes": {
+        "label": "Client interactions",
+        "x": -1670.2015,
+        "y": -558.71936,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "208",
+      "attributes": {
+        "label": "Merger \u0026 acquisition",
+        "x": -1605.3989,
+        "y": -653.7816,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "209",
+      "attributes": {
+        "label": "Financial literacy",
+        "x": -1119.1305,
+        "y": -1019.4589,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "210",
+      "attributes": {
+        "label": "Forecasting",
+        "x": -1093.522,
+        "y": -1139.4441,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "211",
+      "attributes": {
+        "label": "Profit perception",
+        "x": -1025.623,
+        "y": -943.8664,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "212",
+      "attributes": {
+        "label": "Cash flow caring",
+        "x": -1004.2056,
+        "y": -1063.8307,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "213",
+      "attributes": {
+        "label": "Culture of follow-up",
+        "x": -1368.6805,
+        "y": -624.45953,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "214",
+      "attributes": {
+        "label": "Expectations set",
+        "x": -1488.5679,
+        "y": -604.1608,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "215",
+      "attributes": {
+        "label": "Rituals established",
+        "x": -1426.9232,
+        "y": -509.03607,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "216",
+      "attributes": {
+        "label": "Discipline",
+        "x": -1314.2563,
+        "y": -510.53683,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "217",
+      "attributes": {
+        "label": "Persistence",
+        "x": -1247.6537,
+        "y": -606.82025,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "218",
+      "attributes": {
+        "label": "Key positioning",
+        "x": -1430.5234,
+        "y": -1354.1301,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "219",
+      "attributes": {
+        "label": "Problem-solving",
+        "x": -1442.7257,
+        "y": -1476.5029,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "220",
+      "attributes": {
+        "label": "Decision-making",
+        "x": -1543.3739,
+        "y": -1403.0863,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "221",
+      "attributes": {
+        "label": "End-objective orient",
+        "x": -1330.8745,
+        "y": -1426.502,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "222",
+      "attributes": {
+        "label": "Consulting council",
+        "x": -1493.4307,
+        "y": -1639.9415,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "223",
+      "attributes": {
+        "label": "Strategic",
+        "x": -1520.515,
+        "y": -1762.2798,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "224",
+      "attributes": {
+        "label": "Business",
+        "x": -1426.0712,
+        "y": -1738.8607,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "225",
+      "attributes": {
+        "label": "Taxation",
+        "x": -1597.8862,
+        "y": -1600.3569,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "226",
+      "attributes": {
+        "label": "Operational",
+        "x": -1596.544,
+        "y": -1701.7196,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "227",
+      "attributes": {
+        "label": "Transparency policie",
+        "x": -1381.8744,
+        "y": -1647.4152,
+        "size": 40.0,
+        "color": "#ffffff"
+      }
+    },
+    {
+      "key": "228",
+      "attributes": {
+        "label": "Powerful business st",
+        "x": -2199.95,
+        "y": -1306.8362,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "229",
+      "attributes": {
+        "label": "Structure design",
+        "x": -2203.3108,
+        "y": -1516.9622,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "230",
+      "attributes": {
+        "label": "Pathfinder",
+        "x": -2241.4595,
+        "y": -1423.4146,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "231",
+      "attributes": {
+        "label": "Regenerative compete",
+        "x": -2107.1843,
+        "y": -1219.9738,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "232",
+      "attributes": {
+        "label": "Sense of opportunity",
+        "x": -2014.4417,
+        "y": -1266.2727,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "233",
+      "attributes": {
+        "label": "Growth strategies",
+        "x": -2458.2375,
+        "y": -1257.109,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "234",
+      "attributes": {
+        "label": "Catching up on low-h",
+        "x": -2021.4594,
+        "y": -1161.6609,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "235",
+      "attributes": {
+        "label": "Keep moving",
+        "x": -2388.9844,
+        "y": -1180.035,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "236",
+      "attributes": {
+        "label": "Novelty in business",
+        "x": -2291.4248,
+        "y": -1213.359,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "237",
+      "attributes": {
+        "label": "Speed in business",
+        "x": -2335.0845,
+        "y": -1386.5795,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "238",
+      "attributes": {
+        "label": "Untapped potential s",
+        "x": -2317.0344,
+        "y": -1490.2446,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "239",
+      "attributes": {
+        "label": "Hidden gems in busin",
+        "x": -2213.5317,
+        "y": -1069.7067,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "240",
+      "attributes": {
+        "label": "A sleeping giant pla",
+        "x": -2037.8424,
+        "y": -1446.6516,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "241",
+      "attributes": {
+        "label": "Building a sustainab",
+        "x": -2309.0127,
+        "y": -1111.912,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "242",
+      "attributes": {
+        "label": "Empowering growth",
+        "x": -1975.2058,
+        "y": -1363.025,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "243",
+      "attributes": {
+        "label": "A catalyst for chang",
+        "x": -2357.673,
+        "y": -1288.3254,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "244",
+      "attributes": {
+        "label": "A roadmap to success",
+        "x": -2435.8193,
+        "y": -1358.5352,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "245",
+      "attributes": {
+        "label": "Core competencies",
+        "x": -2101.1243,
+        "y": -1530.4884,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "246",
+      "attributes": {
+        "label": "Unique selling propo",
+        "x": -2140.1497,
+        "y": -1431.4033,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "247",
+      "attributes": {
+        "label": "Competitive edge",
+        "x": -2078.6797,
+        "y": -1347.4462,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "248",
+      "attributes": {
+        "label": "Ahead of the curve",
+        "x": -2199.7222,
+        "y": -1172.1292,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "249",
+      "attributes": {
+        "label": "Finding the right pa",
+        "x": -2115.3474,
+        "y": -1112.8533,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "250",
+      "attributes": {
+        "label": "Equality \u0026 equity pe",
+        "x": -2414.9778,
+        "y": -1460.0406,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "251",
+      "attributes": {
+        "label": "Trade-off capacity",
+        "x": -2279.7744,
+        "y": -1585.8696,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "252",
+      "attributes": {
+        "label": "Abundance mindset x",
+        "x": -1428.0001,
+        "y": -760.029,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "253",
+      "attributes": {
+        "label": "Morale in scarcity",
+        "x": -1307.054,
+        "y": -753.2127,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "254",
+      "attributes": {
+        "label": "Competency valuation",
+        "x": -1493.9441,
+        "y": -858.02954,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "255",
+      "attributes": {
+        "label": "Policy development",
+        "x": -1268.2467,
+        "y": -1041.8998,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "256",
+      "attributes": {
+        "label": "Pragmatism policies",
+        "x": -1315.8904,
+        "y": -1199.5768,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "257",
+      "attributes": {
+        "label": "Human diversity \u0026 he",
+        "x": -1202.9366,
+        "y": -809.4848,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "258",
+      "attributes": {
+        "label": "Processes",
+        "x": -1532.6365,
+        "y": -1084.8141,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "259",
+      "attributes": {
+        "label": "Business processes",
+        "x": -1563.4902,
+        "y": -1201.2972,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "260",
+      "attributes": {
+        "label": "Operational processe",
+        "x": -1646.9647,
+        "y": -1124.2324,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "261",
+      "attributes": {
+        "label": "Risk management",
+        "x": -1591.5983,
+        "y": -938.8022,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "262",
+      "attributes": {
+        "label": "Risk analysis",
+        "x": -1688.6078,
+        "y": -1010.54443,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "263",
+      "attributes": {
+        "label": "Countermeasures",
+        "x": -1704.1661,
+        "y": -899.39276,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "264",
+      "attributes": {
+        "label": "Crisis management",
+        "x": -1377.5536,
+        "y": -1095.776,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "265",
+      "attributes": {
+        "label": "Crisis analysis",
+        "x": -1225.5374,
+        "y": -1149.9381,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "266",
+      "attributes": {
+        "label": "Countermeasures",
+        "x": -1434.7062,
+        "y": -1198.6241,
+        "size": 46.0,
+        "color": "#e6e6ff"
+      }
+    },
+    {
+      "key": "267",
+      "attributes": {
+        "label": "Holistic special vis",
+        "x": -152.47191,
+        "y": -154.20074,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "268",
+      "attributes": {
+        "label": "Mental model",
+        "x": -250.82498,
+        "y": -57.831875,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "269",
+      "attributes": {
+        "label": "Personal mastery",
+        "x": -84.55215,
+        "y": -270.4473,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "270",
+      "attributes": {
+        "label": "Shared vision",
+        "x": -214.39946,
+        "y": -278.82877,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "271",
+      "attributes": {
+        "label": "Team learning",
+        "x": -290.36908,
+        "y": -178.45024,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "272",
+      "attributes": {
+        "label": "System thinking",
+        "x": -125.632484,
+        "y": -21.32841,
+        "size": 52.0,
+        "color": "#ccccff"
+      }
+    },
+    {
+      "key": "273",
+      "attributes": {
+        "label": "Outstanding factors",
+        "x": 590.8177,
+        "y": 1367.9264,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "274",
+      "attributes": {
+        "label": "Science",
+        "x": 721.5802,
+        "y": 1302.4304,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "275",
+      "attributes": {
+        "label": "Technology",
+        "x": 598.4191,
+        "y": 1224.6797,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "276",
+      "attributes": {
+        "label": "Innovation \u0026 creativ",
+        "x": 715.4631,
+        "y": 1442.9839,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "277",
+      "attributes": {
+        "label": "Culture [art, tradit",
+        "x": 422.11804,
+        "y": 1253.1154,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "278",
+      "attributes": {
+        "label": "Abiding principles",
+        "x": 198.40083,
+        "y": 1532.892,
+        "size": 64.0,
+        "color": "#6666ff"
+      }
+    },
+    {
+      "key": "279",
+      "attributes": {
+        "label": "Build to last princi",
+        "x": 49.42554,
+        "y": 1518.1674,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "280",
+      "attributes": {
+        "label": "Esg (environment, so",
+        "x": 131.3397,
+        "y": 1403.8555,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "281",
+      "attributes": {
+        "label": "Law compliance",
+        "x": 230.87505,
+        "y": 1676.9199,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "282",
+      "attributes": {
+        "label": "Ideology \u0026 idealism",
+        "x": 97.38176,
+        "y": 1646.3069,
+        "size": 58.0,
+        "color": "#9999ff"
+      }
+    },
+    {
+      "key": "283",
+      "attributes": {
+        "label": "Government \u0026 politic",
+        "x": 1148.5977,
+        "y": 3018.8892,
+        "size": 70.0,
+        "color": "#ffff33"
+      }
+    },
+    {
+      "key": "284",
+      "attributes": {
+        "label": "Ideologies",
+        "x": 1273.054,
+        "y": 3124.6401,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    },
+    {
+      "key": "285",
+      "attributes": {
+        "label": "Legislature",
+        "x": 1133.3735,
+        "y": 3182.6199,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    },
+    {
+      "key": "286",
+      "attributes": {
+        "label": "Administration",
+        "x": 1441.0082,
+        "y": 3227.6157,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    },
+    {
+      "key": "287",
+      "attributes": {
+        "label": "General executive ro",
+        "x": 1525.6139,
+        "y": 3108.6675,
+        "size": 58.0,
+        "color": "#ffff99"
+      }
+    },
+    {
+      "key": "288",
+      "attributes": {
+        "label": "Geopolitics",
+        "x": 1610.8765,
+        "y": 3385.736,
+        "size": 58.0,
+        "color": "#ffff99"
+      }
+    },
+    {
+      "key": "289",
+      "attributes": {
+        "label": "External threats",
+        "x": 1744.8921,
+        "y": 3497.2576,
+        "size": 52.0,
+        "color": "#ffffcc"
+      }
+    },
+    {
+      "key": "290",
+      "attributes": {
+        "label": "Arms race",
+        "x": 1858.8456,
+        "y": 3456.63,
+        "size": 46.0,
+        "color": "#ffffe6"
+      }
+    },
+    {
+      "key": "291",
+      "attributes": {
+        "label": "International confli",
+        "x": 1840.6172,
+        "y": 3575.8962,
+        "size": 46.0,
+        "color": "#ffffe6"
+      }
+    },
+    {
+      "key": "292",
+      "attributes": {
+        "label": "Political hegemony",
+        "x": 1727.4119,
+        "y": 3617.0405,
+        "size": 46.0,
+        "color": "#ffffe6"
+      }
+    },
+    {
+      "key": "293",
+      "attributes": {
+        "label": "Geoeconomics",
+        "x": 1442.1858,
+        "y": 3373.1812,
+        "size": 58.0,
+        "color": "#ffff99"
+      }
+    },
+    {
+      "key": "294",
+      "attributes": {
+        "label": "Geo-sociology",
+        "x": 1587.3253,
+        "y": 3238.2642,
+        "size": 58.0,
+        "color": "#ffff99"
+      }
+    },
+    {
+      "key": "295",
+      "attributes": {
+        "label": "Judicature",
+        "x": 1199.6663,
+        "y": 2866.8608,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    },
+    {
+      "key": "296",
+      "attributes": {
+        "label": "Taxation",
+        "x": 1308.1406,
+        "y": 2976.942,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    },
+    {
+      "key": "297",
+      "attributes": {
+        "label": "Tax law",
+        "x": 1006.19727,
+        "y": 3091.826,
+        "size": 64.0,
+        "color": "#ffff66"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "1",
+      "source": "1",
+      "target": "2",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "2",
+      "target": "3",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "2",
+      "target": "4",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "2",
+      "target": "5",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "2",
+      "target": "6",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "2",
+      "target": "7",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "2",
+      "target": "8",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "2",
+      "target": "9",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "2",
+      "target": "10",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "1",
+      "target": "11",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "11",
+      "target": "12",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "11",
+      "target": "13",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "1",
+      "target": "14",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "14",
+      "target": "15",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "14",
+      "target": "16",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "14",
+      "target": "17",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "1",
+      "target": "18",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "18",
+      "target": "19",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "18",
+      "target": "20",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "18",
+      "target": "21",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "18",
+      "target": "22",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "18",
+      "target": "23",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "18",
+      "target": "24",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "18",
+      "target": "25",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "1",
+      "target": "26",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "26",
+      "target": "27",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "27",
+      "target": "28",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "27",
+      "target": "29",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "26",
+      "target": "30",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "30",
+      "target": "31",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "30",
+      "target": "32",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "30",
+      "target": "33",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "30",
+      "target": "34",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "26",
+      "target": "35",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "35",
+      "target": "36",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "35",
+      "target": "37",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "35",
+      "target": "38",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "35",
+      "target": "39",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "26",
+      "target": "40",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "40",
+      "target": "41",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "40",
+      "target": "42",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "40",
+      "target": "43",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "26",
+      "target": "44",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "26",
+      "target": "45",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "45",
+      "target": "46",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "45",
+      "target": "47",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "45",
+      "target": "48",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "45",
+      "target": "49",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "45",
+      "target": "50",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "51",
+      "target": "1",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "51",
+      "target": "52",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "51",
+      "target": "53",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "53",
+      "target": "54",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "53",
+      "target": "55",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "53",
+      "target": "56",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "53",
+      "target": "57",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "53",
+      "target": "58",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "51",
+      "target": "59",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "59",
+      "target": "60",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "60",
+      "target": "61",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "60",
+      "target": "62",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "60",
+      "target": "63",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "60",
+      "target": "64",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "60",
+      "target": "65",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "60",
+      "target": "66",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "59",
+      "target": "67",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "67",
+      "target": "68",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "68",
+      "target": "69",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "68",
+      "target": "70",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "70",
+      "target": "71",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "70",
+      "target": "72",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "70",
+      "target": "73",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "70",
+      "target": "74",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "70",
+      "target": "75",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "70",
+      "target": "76",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "67",
+      "target": "77",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "77",
+      "target": "78",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "77",
+      "target": "79",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "77",
+      "target": "80",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "77",
+      "target": "81",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "77",
+      "target": "82",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "77",
+      "target": "83",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "77",
+      "target": "84",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "77",
+      "target": "85",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "77",
+      "target": "86",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "77",
+      "target": "87",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "77",
+      "target": "88",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "77",
+      "target": "89",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "77",
+      "target": "90",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "77",
+      "target": "91",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "77",
+      "target": "92",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "77",
+      "target": "93",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "77",
+      "target": "94",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "77",
+      "target": "95",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "77",
+      "target": "96",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "77",
+      "target": "97",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "77",
+      "target": "98",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "77",
+      "target": "99",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "77",
+      "target": "100",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "77",
+      "target": "101",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "77",
+      "target": "102",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "77",
+      "target": "103",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "77",
+      "target": "104",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "77",
+      "target": "105",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "77",
+      "target": "106",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "77",
+      "target": "107",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "77",
+      "target": "108",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "77",
+      "target": "109",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "77",
+      "target": "110",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "77",
+      "target": "111",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "77",
+      "target": "112",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "77",
+      "target": "113",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "77",
+      "target": "114",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "77",
+      "target": "115",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "77",
+      "target": "116",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "77",
+      "target": "117",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "77",
+      "target": "118",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "67",
+      "target": "119",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "59",
+      "target": "120",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "120",
+      "target": "121",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "120",
+      "target": "122",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "122",
+      "source": "120",
+      "target": "123",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "123",
+      "source": "120",
+      "target": "124",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "124",
+      "source": "124",
+      "target": "125",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "125",
+      "source": "125",
+      "target": "126",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "126",
+      "source": "125",
+      "target": "127",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "124",
+      "target": "128",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "128",
+      "source": "128",
+      "target": "129",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "128",
+      "target": "130",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "130",
+      "source": "128",
+      "target": "131",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "131",
+      "source": "120",
+      "target": "132",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "132",
+      "source": "120",
+      "target": "133",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "133",
+      "source": "133",
+      "target": "134",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "134",
+      "source": "133",
+      "target": "135",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "135",
+      "source": "120",
+      "target": "136",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "136",
+      "source": "59",
+      "target": "137",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "137",
+      "source": "137",
+      "target": "138",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "138",
+      "source": "137",
+      "target": "139",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "139",
+      "source": "137",
+      "target": "140",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "140",
+      "source": "140",
+      "target": "141",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "141",
+      "source": "140",
+      "target": "142",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "142",
+      "source": "137",
+      "target": "143",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "143",
+      "source": "143",
+      "target": "144",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "144",
+      "source": "143",
+      "target": "145",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "145",
+      "source": "143",
+      "target": "146",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "146",
+      "source": "137",
+      "target": "147",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "147",
+      "source": "147",
+      "target": "148",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "148",
+      "source": "137",
+      "target": "149",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "149",
+      "source": "137",
+      "target": "150",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "150",
+      "source": "150",
+      "target": "151",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "151",
+      "source": "137",
+      "target": "152",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "152",
+      "source": "152",
+      "target": "153",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "153",
+      "source": "152",
+      "target": "154",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "154",
+      "source": "152",
+      "target": "155",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "155",
+      "source": "152",
+      "target": "156",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "156",
+      "source": "152",
+      "target": "157",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "157",
+      "source": "152",
+      "target": "158",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "158",
+      "source": "158",
+      "target": "159",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "159",
+      "source": "158",
+      "target": "160",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "160",
+      "source": "152",
+      "target": "161",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "161",
+      "source": "161",
+      "target": "162",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "162",
+      "source": "161",
+      "target": "163",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "163",
+      "source": "152",
+      "target": "164",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "164",
+      "source": "137",
+      "target": "165",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "165",
+      "source": "137",
+      "target": "166",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "166",
+      "source": "137",
+      "target": "167",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "167",
+      "source": "137",
+      "target": "168",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "168",
+      "source": "137",
+      "target": "169",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "169",
+      "source": "59",
+      "target": "170",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "170",
+      "source": "170",
+      "target": "171",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "171",
+      "source": "171",
+      "target": "172",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "172",
+      "source": "171",
+      "target": "173",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "173",
+      "source": "171",
+      "target": "174",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "174",
+      "source": "171",
+      "target": "175",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "175",
+      "source": "170",
+      "target": "176",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "176",
+      "source": "176",
+      "target": "177",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "177",
+      "source": "176",
+      "target": "178",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "178",
+      "source": "176",
+      "target": "179",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "179",
+      "source": "176",
+      "target": "180",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "180",
+      "source": "170",
+      "target": "181",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "181",
+      "source": "181",
+      "target": "182",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "182",
+      "source": "181",
+      "target": "183",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "183",
+      "source": "181",
+      "target": "184",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "184",
+      "source": "181",
+      "target": "185",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "185",
+      "source": "170",
+      "target": "186",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "186",
+      "source": "186",
+      "target": "187",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "187",
+      "source": "186",
+      "target": "188",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "188",
+      "source": "186",
+      "target": "189",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "189",
+      "source": "170",
+      "target": "190",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "190",
+      "source": "190",
+      "target": "191",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "191",
+      "source": "190",
+      "target": "192",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "192",
+      "source": "190",
+      "target": "193",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "193",
+      "source": "170",
+      "target": "194",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "194",
+      "source": "194",
+      "target": "195",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "195",
+      "source": "194",
+      "target": "196",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "196",
+      "source": "194",
+      "target": "197",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "197",
+      "source": "59",
+      "target": "198",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "198",
+      "source": "198",
+      "target": "199",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "199",
+      "source": "198",
+      "target": "200",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "200",
+      "source": "198",
+      "target": "201",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "201",
+      "source": "201",
+      "target": "202",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "202",
+      "source": "201",
+      "target": "203",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "203",
+      "source": "201",
+      "target": "204",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "204",
+      "source": "201",
+      "target": "205",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "205",
+      "source": "201",
+      "target": "206",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "206",
+      "source": "201",
+      "target": "207",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "207",
+      "source": "201",
+      "target": "208",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "208",
+      "source": "198",
+      "target": "209",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "209",
+      "source": "209",
+      "target": "210",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "210",
+      "source": "209",
+      "target": "211",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "211",
+      "source": "209",
+      "target": "212",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "212",
+      "source": "198",
+      "target": "213",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "213",
+      "source": "213",
+      "target": "214",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "214",
+      "source": "213",
+      "target": "215",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "215",
+      "source": "213",
+      "target": "216",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "216",
+      "source": "213",
+      "target": "217",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "217",
+      "source": "198",
+      "target": "218",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "218",
+      "source": "218",
+      "target": "219",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "219",
+      "source": "218",
+      "target": "220",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "220",
+      "source": "218",
+      "target": "221",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "221",
+      "source": "218",
+      "target": "222",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "222",
+      "source": "222",
+      "target": "223",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "223",
+      "source": "222",
+      "target": "224",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "224",
+      "source": "222",
+      "target": "225",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "225",
+      "source": "222",
+      "target": "226",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "226",
+      "source": "222",
+      "target": "227",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "227",
+      "source": "198",
+      "target": "228",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "228",
+      "source": "228",
+      "target": "229",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "229",
+      "source": "228",
+      "target": "230",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "230",
+      "source": "228",
+      "target": "231",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "231",
+      "source": "228",
+      "target": "232",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "232",
+      "source": "228",
+      "target": "233",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "233",
+      "source": "228",
+      "target": "234",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "234",
+      "source": "228",
+      "target": "235",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "235",
+      "source": "228",
+      "target": "236",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "236",
+      "source": "228",
+      "target": "237",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "237",
+      "source": "228",
+      "target": "238",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "238",
+      "source": "228",
+      "target": "239",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "239",
+      "source": "228",
+      "target": "240",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "240",
+      "source": "228",
+      "target": "241",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "241",
+      "source": "228",
+      "target": "242",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "242",
+      "source": "228",
+      "target": "243",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "243",
+      "source": "228",
+      "target": "244",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "244",
+      "source": "228",
+      "target": "245",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "245",
+      "source": "228",
+      "target": "246",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "246",
+      "source": "228",
+      "target": "247",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "247",
+      "source": "228",
+      "target": "248",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "248",
+      "source": "228",
+      "target": "249",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "249",
+      "source": "228",
+      "target": "250",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "250",
+      "source": "228",
+      "target": "251",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "251",
+      "source": "198",
+      "target": "252",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "252",
+      "source": "198",
+      "target": "253",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "253",
+      "source": "198",
+      "target": "254",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "254",
+      "source": "198",
+      "target": "255",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "255",
+      "source": "255",
+      "target": "256",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "256",
+      "source": "198",
+      "target": "257",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "257",
+      "source": "198",
+      "target": "258",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "258",
+      "source": "258",
+      "target": "259",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "259",
+      "source": "258",
+      "target": "260",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "260",
+      "source": "198",
+      "target": "261",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "261",
+      "source": "261",
+      "target": "262",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "262",
+      "source": "261",
+      "target": "263",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "263",
+      "source": "198",
+      "target": "264",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "264",
+      "source": "264",
+      "target": "265",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "265",
+      "source": "264",
+      "target": "266",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "266",
+      "source": "59",
+      "target": "267",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "267",
+      "source": "267",
+      "target": "268",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "268",
+      "source": "267",
+      "target": "269",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "269",
+      "source": "267",
+      "target": "270",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "270",
+      "source": "267",
+      "target": "271",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "271",
+      "source": "267",
+      "target": "272",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "272",
+      "source": "51",
+      "target": "273",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "273",
+      "source": "273",
+      "target": "274",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "274",
+      "source": "273",
+      "target": "275",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "275",
+      "source": "273",
+      "target": "276",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "276",
+      "source": "51",
+      "target": "277",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "277",
+      "source": "51",
+      "target": "278",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "278",
+      "source": "278",
+      "target": "279",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "279",
+      "source": "278",
+      "target": "280",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "280",
+      "source": "278",
+      "target": "281",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "281",
+      "source": "278",
+      "target": "282",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "282",
+      "source": "1",
+      "target": "283",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "283",
+      "source": "283",
+      "target": "284",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "284",
+      "source": "283",
+      "target": "285",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "285",
+      "source": "283",
+      "target": "286",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "286",
+      "source": "286",
+      "target": "287",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "287",
+      "source": "286",
+      "target": "288",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "288",
+      "source": "288",
+      "target": "289",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "289",
+      "source": "289",
+      "target": "290",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "290",
+      "source": "289",
+      "target": "291",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "291",
+      "source": "289",
+      "target": "292",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "292",
+      "source": "286",
+      "target": "293",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "293",
+      "source": "286",
+      "target": "294",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "294",
+      "source": "283",
+      "target": "295",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "295",
+      "source": "283",
+      "target": "296",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    },
+    {
+      "key": "296",
+      "source": "283",
+      "target": "297",
+      "attributes": {
+        "color": "#000000",
+        "weight": 1.0
+      }
+    }
+  ]
+}
